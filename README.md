@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GOURAV-CHAWLA
 -  I’m interested in Development, Coding amd learning new skills
--  I’m currently learning Android Development 
+-  I’m currently working on full stack development 
 -  I’m looking for an internship 
 
 <!---
