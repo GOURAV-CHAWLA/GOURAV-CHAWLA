@@ -33,3 +33,6 @@
 <img align="left" alt="Terminal" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOURAV-CHAWLA&show_icons=true&locale=en&layout=compact" alt="GOURAV-CHAWLA" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GOURAV-CHAWLA&show_icons=true&locale=en" alt="GOURAV-CHAWLA" /></p>
