@@ -1,7 +1,6 @@
-
+<img width="100%" height="275px" src="https://i.imgur.com/iXuL1HG.png" alt="GOURAV-CHAWLA" /> 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
 
 - 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
 
@@ -13,7 +12,6 @@
 
 
 - 📫 **Reach me at gouravchawla333@gmail.com**
-<a href="#" align="right" ><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
@@ -59,4 +57,3 @@
     <img src="https://komarev.com/ghpvc/?username=GOURAV-CHAWLA">
 </a>
 <a href="https://github.com/GOURAV-CHAWLA?tab=followers"><img src="https://img.shields.io/github/followers/GOURAV-CHAWLA?label=Followers&style=social" alt="GitHub Badge"></a>
-
